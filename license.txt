@@ -1,0 +1,11 @@
+Model Information:
+* title:	Молчанов Upper Jaw Scan
+* source:	https://sketchfab.com/3d-models/upper-jaw-scan-0157f8f1075c4cf4b58564e424384740
+* author:	molchanov_mp (https://sketchfab.com/molchanov_mp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Молчанов Upper Jaw Scan" (https://sketchfab.com/3d-models/upper-jaw-scan-0157f8f1075c4cf4b58564e424384740) by molchanov_mp (https://sketchfab.com/molchanov_mp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
